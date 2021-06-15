@@ -1,10 +1,12 @@
-package com.amjedalmousawi.foody
+package com.amjedalmousawi.foody.ui.fragment.favorite
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.amjedalmousawi.foody.R
+
 class FavoriteRecipesFragment : Fragment() {
 
 

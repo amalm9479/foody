@@ -1,4 +1,4 @@
-package com.amjedalmousawi.foody
+package com.amjedalmousawi.foody.util
 
 class Constants {
     companion object{
